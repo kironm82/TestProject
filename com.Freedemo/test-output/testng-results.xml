@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69379" started-at="2019-10-13T17:48:11 EDT" finished-at="2019-10-13T17:49:21 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69379" started-at="2019-10-13T17:48:11 EDT" finished-at="2019-10-13T17:49:21 EDT">
+      <class name="com.extentReportTestng.Extent_Report_Testng">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="setUp" is-config="true" duration-ms="8617" started-at="2019-10-13T17:48:11 EDT" finished-at="2019-10-13T17:48:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Search()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="Search" duration-ms="1807" started-at="2019-10-13T17:48:20 EDT" finished-at="2019-10-13T17:48:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="tearDown" is-config="true" duration-ms="3496" started-at="2019-10-13T17:48:22 EDT" finished-at="2019-10-13T17:48:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="setUp" is-config="true" duration-ms="5052" started-at="2019-10-13T17:48:25 EDT" finished-at="2019-10-13T17:48:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Search1()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="Search1" duration-ms="3523" started-at="2019-10-13T17:48:30 EDT" finished-at="2019-10-13T17:48:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="tearDown" is-config="true" duration-ms="3029" started-at="2019-10-13T17:48:34 EDT" finished-at="2019-10-13T17:48:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="setUp" is-config="true" duration-ms="6314" started-at="2019-10-13T17:48:37 EDT" finished-at="2019-10-13T17:48:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Search2()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="Search2" duration-ms="1157" started-at="2019-10-13T17:48:43 EDT" finished-at="2019-10-13T17:48:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="tearDown" is-config="true" duration-ms="3055" started-at="2019-10-13T17:48:44 EDT" finished-at="2019-10-13T17:48:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="setUp" is-config="true" duration-ms="5083" started-at="2019-10-13T17:48:47 EDT" finished-at="2019-10-13T17:48:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Search3()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="Search3" duration-ms="966" started-at="2019-10-13T17:48:52 EDT" finished-at="2019-10-13T17:48:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="tearDown" is-config="true" duration-ms="3000" started-at="2019-10-13T17:48:53 EDT" finished-at="2019-10-13T17:48:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="setUp" is-config="true" duration-ms="5207" started-at="2019-10-13T17:48:56 EDT" finished-at="2019-10-13T17:49:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Search4()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="Search4" duration-ms="3550" started-at="2019-10-13T17:49:02 EDT" finished-at="2019-10-13T17:49:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="tearDown" is-config="true" duration-ms="3016" started-at="2019-10-13T17:49:05 EDT" finished-at="2019-10-13T17:49:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="setUp" is-config="true" duration-ms="5180" started-at="2019-10-13T17:49:08 EDT" finished-at="2019-10-13T17:49:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Search5()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="Search5" duration-ms="3960" started-at="2019-10-13T17:49:13 EDT" finished-at="2019-10-13T17:49:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.extentReportTestng.Extent_Report_Testng@30b8a058]" name="tearDown" is-config="true" duration-ms="3250" started-at="2019-10-13T17:49:17 EDT" finished-at="2019-10-13T17:49:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.extentReportTestng.Extent_Report_Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
